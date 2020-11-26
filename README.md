@@ -1,8 +1,5 @@
 # Cajero-Automaticio-Flutter
-<img alt="https://user-images.githubusercontent.com/67238016/100385594-12904280-2ff1-11eb-8e3e-3c98afc46c7b.jpeg"
-src="https://user-images.githubusercontent.com/67238016/100385594-12904280-2ff1-11eb-8e3e-3c98afc46c7b.jpeg"
-style="height: 800px;" />
-<img src="https://user-images.githubusercontent.com/67238016/100385594-12904280-2ff1-11eb-8e3e-3c98afc46c7b.jpeg" alt="" data-canonical-src="https://user-images.githubusercontent.com/67238016/100385594-12904280-2ff1-11eb-8e3e-3c98afc46c7b.jpeg" width="200" height="600" />
+<img src="https://user-images.githubusercontent.com/67238016/100385594-12904280-2ff1-11eb-8e3e-3c98afc46c7b.jpeg" alt="" data-canonical-src="https://user-images.githubusercontent.com/67238016/100385594-12904280-2ff1-11eb-8e3e-3c98afc46c7b.jpeg" width="350" />
 
 ## Estado de cuenta inicial S/ 1000 soles.
 
